@@ -1,0 +1,46 @@
+.addUser{
+    width:25%;
+    margin:50px auto;
+     background-color: white;
+     padding: 40px;
+     border-radius:10px;
+    box-shadow: 1px 1px 8px rgbe(0,0,0,0.65);  
+  }
+  .addUserForm .inputGroup{
+    width:100%;
+    display: flex ;
+    flex-direction: column;
+    padding: 20px 8px;
+
+  }
+  .inputField .MuiInputBase-root {
+    margin-bottom: 10px;
+  }
+  .addUserForm .inputGroup label{
+    margin-top:10px;
+  }
+  .addUserForm .inputGroup input{
+    margin-top: 5px;
+    padding: 10px;
+  }
+  .inputGroup button{
+    margin-top: 20px;
+    
+  }
+  .login {
+    padding: 20px 8px;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .addUser .form-title{
+    text-align: center;
+    font-weight: bold;
+    color: darkcyan;
+    text-transform: uppercase;
+    
+  }
+  
+ 
